@@ -5,4 +5,4 @@ Kaggle Titanic Competition
 
 > Nothing is impossible with a willing heart!
 
-![](http://img4.duitang.com/uploads/item/201310/14/20131014093418_CBw8A.thumb.700_0.jpeg)
+![](http://image2.5253.com/images/article_cover/201408/21/1016/37/201408211016373004.jpeg)
