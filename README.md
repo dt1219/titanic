@@ -7,7 +7,7 @@ Kaggle Titanic Competition
 
 ![](http://image2.5253.com/images/article_cover/201408/21/1016/37/201408211016373004.jpeg)
 
-## Feature Explanation
+## Original Feature 
 
 ![](http://trevorstephens.com/images/2014-01-10-getting-started-with-r.png)
 
@@ -22,5 +22,9 @@ Kaggle Titanic Competition
 - The ticket Fare
 - The cabin number
 - The embarkation. It has three possible values S(Southampton),C(Cherbourg),Q(Queenstown)
+
+## Derived Feature
+
+1. 
 
 
